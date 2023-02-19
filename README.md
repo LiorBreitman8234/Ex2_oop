@@ -21,7 +21,7 @@
 
 
 ## Credits:
-This Project made by: Talia Seada (ID: 211551601), Lior Breitman (ID: 212733257), Dana Zorohov (ID: 207817529).
+This Project made by: Talia Seada, Lior Breitman, Dana Zorohov.
 __NOTE:__ In this projects the group members used "Code With Me" in the IntelliJ workspace, so most of the commits are
 from one main computer, while all the members were working on the project together.
 ## Intro:
